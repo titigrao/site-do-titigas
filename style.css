@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #977171;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+    font-size: 34px;
+    font-family: 'Schibsted Grotesk', sans-serif;
+}
+
+.cabecalho-informações-item{
+    margin: 4px 16px; ;
+    font-size: 30px;
+}
+
+body{
+    background-color: #EEECD7;
+}
+
+.noticia-golden{
+    width: 20%;
+    display: flex;
+}
+
+.noticias-1{
+    background-color: #C2B9B9;
+    display: flex;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0px;
+}
+
+.noticias-1-div-conteudo{
+    width: 30%;
+}
+
+.noticia-mc-donalds{
+    width: 20%;
+    display: flex;
+}
+
+.noticias-2{
+    background-color: #C2B9B9;
+    display: flex;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0px;
+}
+
+.noticias-2-div-conteudo{
+    width: 30%;
+}
+
+.noticia-rinha-gato{
+    width: 20%;
+    display: flex;
+}
+
+.noticias-3{
+    background-color: #C2B9B9;
+    display: flex;
+    font-size: larger;
+   justify-content: center;
+   align-items: center;
+    margin: 50px 0px;
+}
+
+.noticia-rinha-gato{
+    width: 20%;
+    display: flex;
+}
+
+.noticias-3-div-conteudo{
+    width: 30%;
+}
+
+.tigas-foto{
+    background-color: #C2B9B9;
+    width: 240px;
+    justify-content: center;
+    align-items: center;
+}
+
+.informação-sobre-jrtitigas{
+    font-size: larger;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 50px 0px;
+}
