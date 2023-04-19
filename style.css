@@ -33,7 +33,7 @@ body{
     font-size: larger;
     justify-content: center;
     align-items: center;
-    margin: 50px 0px;
+    margin: 50px 0;
 }
 
 .noticias-1-div-conteudo{
@@ -89,8 +89,23 @@ body{
 }
 
 .informação-sobre-jrtitigas{
+   display: flex;
     font-size: larger;
     justify-content: flex-start;
     align-items: center;
     margin: 50px 0px;
 }
+
+.rodape-site{
+    background-color: #977171;
+    color: white;
+    padding: 24px;
+    font-size: 34px;
+    
+}
+
+.titigas-div{
+text-align: center;
+font-family: 'Schibsted Grotesk', sans-serif;
+}
+
